@@ -1,0 +1,23 @@
+.nav {
+  background-color: lightblue;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.nav-row {
+  display: flex;
+  flex-direction: row;
+  /* width: 600px; */
+  /* border: 1px solid black; */
+}
+
+.col {
+  align-self: center;
+  padding: 15px;
+}
+
+.nav-image {
+  height: 110px;
+  width: 140px;
+}

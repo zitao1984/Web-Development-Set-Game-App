@@ -1,0 +1,24 @@
+.card-container {
+  padding: 10px;
+  width: 95px;
+  height: 113px;
+  background-color: white;
+  border: 2px solid gray;
+  border-radius: 10px;
+  color: green;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+
+.highlighted {
+  background-color: bisque;
+}
+
+.card-container:hover {
+  transition: 800ms;
+  background-color: lightgray;
+}

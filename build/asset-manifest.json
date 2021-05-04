@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/zitao/web_dev_project_2/static/css/main.a95ca7f2.chunk.css",
+    "main.js": "/zitao/web_dev_project_2/static/js/main.d064fda1.chunk.js",
+    "main.js.map": "/zitao/web_dev_project_2/static/js/main.d064fda1.chunk.js.map",
+    "runtime-main.js": "/zitao/web_dev_project_2/static/js/runtime-main.e4de8d33.js",
+    "runtime-main.js.map": "/zitao/web_dev_project_2/static/js/runtime-main.e4de8d33.js.map",
+    "static/css/2.d88ace5d.chunk.css": "/zitao/web_dev_project_2/static/css/2.d88ace5d.chunk.css",
+    "static/js/2.9843dbbc.chunk.js": "/zitao/web_dev_project_2/static/js/2.9843dbbc.chunk.js",
+    "static/js/2.9843dbbc.chunk.js.map": "/zitao/web_dev_project_2/static/js/2.9843dbbc.chunk.js.map",
+    "static/js/3.77ffeab2.chunk.js": "/zitao/web_dev_project_2/static/js/3.77ffeab2.chunk.js",
+    "static/js/3.77ffeab2.chunk.js.map": "/zitao/web_dev_project_2/static/js/3.77ffeab2.chunk.js.map",
+    "index.html": "/zitao/web_dev_project_2/index.html",
+    "static/css/2.d88ace5d.chunk.css.map": "/zitao/web_dev_project_2/static/css/2.d88ace5d.chunk.css.map",
+    "static/css/main.a95ca7f2.chunk.css.map": "/zitao/web_dev_project_2/static/css/main.a95ca7f2.chunk.css.map",
+    "static/js/2.9843dbbc.chunk.js.LICENSE.txt": "/zitao/web_dev_project_2/static/js/2.9843dbbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4de8d33.js",
+    "static/css/2.d88ace5d.chunk.css",
+    "static/js/2.9843dbbc.chunk.js",
+    "static/css/main.a95ca7f2.chunk.css",
+    "static/js/main.d064fda1.chunk.js"
+  ]
+}
